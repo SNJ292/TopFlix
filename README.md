@@ -21,7 +21,7 @@ TopFlix is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/vw7cIz0s0l.gif" width=250><br>
+<img src="http://g.recordit.co/BVm62uodJX.gif" width=500><br>
 
 ### Notes
 So far, I have only encountered minor challenges that were pretty quick to fix such as making sure to not add constraints to a nearby neighbor that doesn't have any constraints on it or else it would mess up the neighbors height and width, or figuring out the constraints needed for the Launch Screen Storyboard.
